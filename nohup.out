@@ -1,0 +1,8 @@
+ 
+Compilation done
+ 
+Exploring the input parameters or generation of particles ?
+1) table
+2) particles
+#? ./execute.sh: line 16: read error: 0: Bad file descriptor
+
